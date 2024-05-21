@@ -19,8 +19,8 @@ This project is a Telegram bot that allows users to download Instagram posts by 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/YourUsername/YourRepository.git
-   cd YourRepository
+   git clone https://github.com/pedrohenriqueperes/insta_post_download_bot.git
+   cd insta_post_download_bot
 
 2. Create a virtual environment and activate it:
    python -m venv venv
